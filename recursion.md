@@ -4,7 +4,7 @@
 
 Recursion is simply a function that calls itself. There is no magic occuring, contrary to popular belief, but it's often very difficult to understand what is going on 'under the hood'. When a function calls itself recursively try to imagine this GIF:
 
-![Alt Text](https://giphy.com/gifs/recursion-bbySGuXxg96PS)
+![](https://lh6.googleusercontent.com/-BOYdZI6tT7Y/UJwzRKYdQNI/AAAAAAAC5js/Ltg-gd6SCQQ/photo.jpg)
 
 We see the elevator doors openening to reveal other elevator doors until finally one opens that the gentleman can enter. Once he is inside the doors begin to close one by one until it looks normal again. This is one of my favorite ways to imagine recursion. I will be continually referencing this GIF as we go through the rest of this article to try and explain how recursion is working.
 
