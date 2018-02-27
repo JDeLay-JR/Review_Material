@@ -41,7 +41,7 @@ function countdownToOne(num) {
 
 Cool, so this is a simple countdown function that takes a number and will recursively countdown & print all numbers from num to 1. So if we give this function 5 we will get 5, 4, 3, 2, 1. Our base case in this scenario is 1. If num is ```1``` we want to simply ```return console.log(num)``` and escape out of our function. Our recursive case occurs when num is not 1. We first want to console.log the number being passed into the function and then we want to call our countdown function again on one less than the number being passed in. This will cause our function to run again and again until we hit the base case.
 
-![](www.imgur.com/gallery/sCJhS)
+![Recursion Diagram](www.imgur.com/gallery/sCJhS)
 
 ## Common Pitfalls
 
